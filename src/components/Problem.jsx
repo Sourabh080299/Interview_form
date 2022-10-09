@@ -1,6 +1,5 @@
 import {React, useState} from "react";
 import { useForm } from "react-hook-form";
-import Form from "./Form";
 const Problem = ({register,handleSubmit,setFormData,setpage}) =>{    
     
     const onSubmit = (data) => {
