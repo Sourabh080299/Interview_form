@@ -1,0 +1,45 @@
+.home{
+    
+    width: 100%;
+}
+.home .heading {
+    color: rgb(12, 93, 128);
+}
+.home .header{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container .box{
+    border: 1px solid rgb(207, 202, 202);
+    width:90%;
+    height:80px;
+    margin-left: auto;
+    margin-right: auto;    
+}
+.container .problem{
+    display: flex;
+    flex-wrap: wrap;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.container .problem input{
+    margin-top:15px;
+    margin-left: 40px;
+    width: 15px;
+    height: 15px;
+}
+.container .problem label{
+    margin-top:10px;
+    margin-right:30px ;
+}
+.container .fifth{
+    text-align: start;
+    padding-left: 60px;
+}
